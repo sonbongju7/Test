@@ -1,0 +1,8 @@
+{
+  "name": "Remix 나의 첫 앱",
+  "description": "휴대폰에서도 보기 편한 큰 글씨와 버튼으로 만든 깔끔한 카운터 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
